@@ -57,7 +57,7 @@ sistem.out.println(paper);
   var totalEmployeers2 = totalEmployeers + 94;
         totalWorkingHours = totalEmployeers2 * hoursPerEmployee;
 
-  sistem.out.println( "Если в компании работает " + totalEmployeers2 + " человека, то всего " + totalWorkingHours + " часа работы может быть поделено между сотрудниками");
+  sistem.out.println( "Если в компании работает " + totalEmployeers2 + " человека, то всего " + totalWorkingHours + " часа работы может быть поделено между сотрудниками . ");
 
 
 
